@@ -1,6 +1,6 @@
 ![Profile](/assets/images/91922792.jpeg)
 # assiscyber
-# Hi, I'm Rafael Assis 👋  
+# Hi, I'm Rafael Assis 
 ### Cybersecurity Analyst | Network Security | Digital Forensics
 
 🔐 Cybersecurity professional focused on **network security, incident response, and forensic analysis**.  
