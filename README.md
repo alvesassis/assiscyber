@@ -1,6 +1,6 @@
 ![Profile](/assets/images/91922792.jpeg)
 # assiscyber
-# Hi, I'm Rafael Assis 👋  
+# Hi, I'm Rafael Assis 
 ### Cybersecurity Analyst | Network Security | Digital Forensics
 
 🔐 Cybersecurity professional focused on **network security, incident response, and forensic analysis**.  
@@ -50,7 +50,7 @@
 - Hack The Box – Fundamentals & Defensive Labs
 - Custom virtual labs using VirtualBox / VMware
 
-➡️ See the [`/labs`](labs/) directory.
+➡️ See the [`/labs`](labs/) Diretory.
 
 ---
 
@@ -79,8 +79,8 @@
 ## 📫 Contact
 
 - 💼 LinkedIn: *add link*
-- 📧 Email: *add professional email*
-- 🌐 GitHub: https://github.com/yourusername
+- 📧 Email: *rafael.fralves@gmail.com*
+- 🌐 GitHub: https://github.com/alvesassis/assiscyber
 
 ---
 
