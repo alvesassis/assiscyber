@@ -1,4 +1,4 @@
-![Profile](91922792.jpeg)
+![Profile](/assets/images/91922792.jpeg)
 # assiscyber
 # Hi, I'm Rafael Assis 👋  
 ### Cybersecurity Analyst | Network Security | Digital Forensics
